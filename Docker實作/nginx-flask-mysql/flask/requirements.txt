@@ -1,0 +1,9 @@
+flask
+flask_moment
+pandas
+folium
+mysql-connector-python
+Jinja2
+Werkzeug
+uwsgi
+cryptography
