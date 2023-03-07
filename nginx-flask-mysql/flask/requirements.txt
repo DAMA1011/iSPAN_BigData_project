@@ -1,9 +1,0 @@
-flask
-flask_moment
-pandas
-folium
-pymysql
-Jinja2
-Werkzeug
-uwsgi
-cryptography
